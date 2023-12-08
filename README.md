@@ -1,2 +1,2 @@
-# challenge-psp
-Challenge for the PSP class
+# Challenge PSP
+Physiological Signals Processing Challenge 19/20
